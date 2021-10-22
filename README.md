@@ -1,2 +1,2 @@
 # Resume
-PROJECT 1 - HTML, Resume: Erna Berbić
+PROJECT 1 - HTML; Resume: Erna Berbić
